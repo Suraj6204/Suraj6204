@@ -1,6 +1,6 @@
 <h1 align="left">Hii, I'm suraj 👋</h1>
 
-######
+#########
 
 <p align="left">💻 Full-Stack Developer experienced in building scalable applications using Next.js, React, Node.js, Express, WebSockets, SQL, and Prisma.<br><br>⚙️ Skilled in designing and deploying REST and graphQL APIs, implementing secure authentication with JWT and NextAuth, and containerizing applications with Docker for reliable deployments.<br><br>☁️ Hands-on experience with MySQL, PostgreSQL, MongoDB, and NeonDB, along with cloud deployments on AWS, GCP, Vercel, and Cloudflare Workers.<br><br>🎨 Strong focus on UI/UX, creating responsive and engaging interfaces using Tailwind CSS, Framer Motion, GSAP, and styled-components.<br><br>🧠 Passionate about continuous learning—from low-level debugging to high-level system design—and actively exploring AI integrations to build practical, user-focused tools.<br><br>🧰 Proficient in TypeScript, Python, and Java, with experience using TurboRepo, Vitest, Jest, and observability tools like Prometheus, Grafana, Loki, and New Relic.<br><br>🚀 Enjoy optimizing performance, building CI/CD pipelines, and creating reliable systems with proper logging, monitoring, and observability.<br><br>🤝 I value clean code, collaboration, and continuous improvement, and I enjoy learning from others while sharing knowledge.<br><br>🌐 Open to internships, remote work, freelance gigs, or collaborating on impactful projects.<br><br>📫 Reach me at: surajbhanrana06@gmail.com</p>
 
